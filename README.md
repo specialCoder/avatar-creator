@@ -1,3 +1,2 @@
 # 使用说明
-1. 需要用 g 包裹
-2. g 需要 transfrom【不需要】
+设计稿地址：https://www.figma.com/file/hEiSBtIHOfK0emGtH0MCVh/Free-Avatar-Creator-(Community)-(Community)?type=design&node-id=107-379&t=ZlweN5hy3YcsP2pr-0

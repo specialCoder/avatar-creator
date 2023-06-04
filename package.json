@@ -1,0 +1,12 @@
+{
+  "name": "avatar-creator",
+  "version": "0.1.0",
+  "description": "头像生成",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "specialcoder",
+  "license": "ISC"
+}

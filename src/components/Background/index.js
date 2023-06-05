@@ -1,1 +1,5 @@
-export { default as Background } from './Background'
+import Background from "./Background";
+
+export default {
+  Default: Background
+};

@@ -1,1 +1,5 @@
-export { default as glasses } from './Glasses'
+import Normal from './Glasses'
+
+export default {
+  Normal
+}

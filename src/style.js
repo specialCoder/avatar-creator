@@ -4,7 +4,7 @@ export const faceStyles = ['Normal','Wide','Thin'];
 
 export const eyesStyles = ['Normal','Confident','Happy','NormalAndBlushes','ConfidentAndBlushes','HappyAndBlushes'];
 
-export const bodyStyles = ['Normal', 'Golf'];
+export const bodyStyles = ['TShirt', 'Golf'];
 
 export const mouthStyles = ['Default','DefaultAndTooth'];
 

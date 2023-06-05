@@ -1,5 +1,5 @@
 const Normal = () => <>
-  <g clip-path="url(#clip0_159_135)" id="Eyes_Normal">
+  <g clipPath="url(#clip0_159_135)" id="Eyes_Normal">
     <rect x="30" y="36" width="3" height="4" rx="1.5" fill="#1B0B47"/>
     <rect x="40" y="36" width="3" height="4" rx="1.5" fill="#1B0B47"/>
   </g>

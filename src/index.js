@@ -57,7 +57,7 @@ const AvatarCreator = (props = defaultProps) => {
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
       >
-        <g clipPath="url(#myClip)" id="wrapper">
+        <g clipPath={ background[0] ? 'url(#myClip)' : ''} id="wrapper">
           {background[0] && (
             <BackgroundLayer {...(backgroundColorsMap[background[1]] || {})} />
           )}
